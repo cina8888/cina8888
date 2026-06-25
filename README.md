@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="Banner/Banner.gif" width="100%" alt="Banner">
+  <img src="Banner/banner.gif" width="100%" alt="Banner">
 </p>
 <!--
 **cina8888/cina8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
